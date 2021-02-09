@@ -1,0 +1,17 @@
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\bin\Debug\Kepler Assistan  V.0.1.exe.config
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\bin\Debug\Kepler Assistan  V.0.1.exe
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\bin\Debug\Kepler Assistan  V.0.1.pdb
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\obj\Debug\Kepler Assistan  V.0.1.csprojAssemblyReference.cache
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\obj\Debug\Interop.SpeechLib.dll
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\obj\Debug\Kepler Assistan  V.0.1.csproj.ResolveComReference.cache
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\obj\Debug\Kepler_Assistan__V._0._1.Form1.resources
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\obj\Debug\Kepler_Assistan__V._0._1.Properties.Resources.resources
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\obj\Debug\Kepler Assistan  V.0.1.csproj.GenerateResource.cache
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\obj\Debug\Kepler Assistan  V.0.1.csproj.CoreCompileInputs.cache
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\obj\Debug\Kepler Assistan  V.0.1.exe
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\obj\Debug\Kepler Assistan  V.0.1.pdb
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\bin\Debug\Interop.WMPLib.dll
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\bin\Debug\AxInterop.WMPLib.dll
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\obj\Debug\Interop.WMPDXMLib.dll
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\obj\Debug\Interop.WMPLib.dll
+D:\proje\Kepler Assistan  V.0.1\Kepler Assistan  V.0.1\obj\Debug\AxInterop.WMPLib.dll
